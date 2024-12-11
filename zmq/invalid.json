@@ -1,0 +1,19 @@
+{
+  "txid": "62c295d3f4a6a5a60ecd7f99279eca9b32fc27740fba29edd95f9e3129fcf894",
+  "fromBlock": false,
+  "source": "rpc",
+  "size": 225,
+  "hex": "0100000001fbbe01d83cb1f53a63ef91c0fce5750cbd8075efef5acd2ff229506a45ab832c010000006a473044022064be2f304950a87782b44e772390836aa613f40312a0df4993e9c5123d0c492d02202009b084b66a3da939fb7dc5d356043986539cac4071372d0a6481d5b5e418ca412103fc12a81e5213e30c7facc15581ac1acbf26a8612a3590ffb48045084b097d52cffffffff02bf010000000000001976a914c2ca67db517c0c972b9a6eb1181880ed3a528e3188acd0070000000000001976a914f1e6837cf17b485a1dcea9e943948fafbe5e9f6888ac00000000",
+  "isInvalid": true,
+  "isValidationError": false,
+  "isMissingInputs": true,
+  "isDoubleSpendDetected": false,
+  "isMempoolConflictDetected": false,
+  "isNonFinal": false,
+  "isValidationTimeoutExceeded": false,
+  "isStandardTx": true,
+  "rejectionCode": 0,
+  "rejectionReason": "\"",
+  "collidedWith": [],
+  "rejectionTime": "2024-07-10T17:49:26Z"
+}
